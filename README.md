@@ -14,8 +14,10 @@ A comprehensive web application that tracks competitive programming contests fro
 - **Theme Toggle**: Switch between light and dark mode based on your preference
 
 ## 📱 Screenshots
+<img width="1440" alt="Screenshot 2025-03-19 at 3 33 52 PM" src="https://github.com/user-attachments/assets/df4a8f94-f3cf-4405-b3e0-4e8927084dd6" />
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/03a11b12-7540-427e-b501-fc75f6e62bd9" />
 
-*[Insert screenshots of your application here]*
+
 
 ## 🛠️ Tech Stack
 
